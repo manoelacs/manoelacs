@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -  **Languages:**  JavaScript, Java, Python, C, C++
 -  **Organizations:** Innovation center EDGE <br/>
 
-[![Mail Badge](https://img.shields.io/badge/-aleonamaissac@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aleonamaissac@gmail.com)](mailto:aleonamaissac) [![Linkedin Badge](https://img.shields.io/badge/-Manoela_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoelacs//)](https://www.linkedin.com/in/manoelacs/)
+[![Mail Badge](https://img.shields.io/badge/-aleonamaissac@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aleonamaissac@gmail.com)](mailto:aleonamaissac) [![Linkedin Badge](https://img.shields.io/badge/-Manoela_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoelacs//)](https://www.linkedin.com/in/manoelacs/)
 
