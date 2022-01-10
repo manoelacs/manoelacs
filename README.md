@@ -1,4 +1,5 @@
 ### Hi there 👋
+Bacharela em Ciências da Computação pela Universidade Federal de Alagoas (UFAL), desenvolvedora frontend. Atualmente trabalho em desenvolvimento de sistemas web responsivos, utilizando ReactJS, Gatsby, NextJS, TypeScript, Context api, Redux, Ant Design, componentização de elementos, personalização de elementos com css puro,  Styled components, Less e Sass, integração com api REST e GraphQL. 
 
 <!--
 **manoelacs/manoelacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
