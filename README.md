@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manoelacs&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelacs&layout=compact&langs_count=7"/>
+</div>
 
 ### About me
 -  **Development:** FrontEnd | Reactjs and React Native | Node 
