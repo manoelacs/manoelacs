@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Manoela Santos Bachelor in Computer Science from the Federal University of Alagoas (UFAL), frontend developer. I am currently working on the development of responsive web systems using ReactJS, Gatsby, NextJS, TypeScript, Context api, Redux, Ant Design, Styled components, Less and Sass, integration with REST api and GraphQL.
+I'm Manoela Santos, Bachelor in Computer Science from the Federal University of Alagoas (UFAL), frontend developer. I am currently working on the development of responsive web systems using ReactJS, Gatsby, NextJS, TypeScript, Context api, Redux, Ant Design, Styled components, Less and Sass, integration with REST api and GraphQL.
 
 <!--
 **manoelacs/manoelacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
