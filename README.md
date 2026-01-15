@@ -1,22 +1,34 @@
-Hey, I’m Manoela Santos 👋
+# Hey, I'm Manoela Santos 👋
 
-🚀 Senior Frontend Developer | React • Next.js • TypeScript • Flutter 🤖
+**Senior Frontend Developer | React • Next.js • TypeScript • Full-Stack**
 
-I’m all about building dynamic, responsive web systems, and now I’m diving deep into Django to connect the dots between front-end and back-end. My goal? To create seamless applications that integrate innovative features, AI, and a clean code approach.
+Building scalable web systems and exploring the intersection of frontend architecture and backend systems with Django. I specialize in high-performance applications, system design thinking, and bridging the gap between user experience and technical excellence.
 
-I’m excited about the endless possibilities AI brings and how it can make a real difference. Whether it's crafting interactive web apps or exploring new ways to integrate intelligent systems, I’m all about fun, innovative, and impactful projects!
+## What I Do
+- Design and optimize React architectures for scale (performance, state management, reusability)
+- Build full-stack applications with Next.js + Django
+- Explore AI integration in web applications (RAG, LangChain, prompt engineering)
+- Mentor developers and advocate for clean, maintainable code
 
-Let’s connect and chat about how tech, AI, and creativity come together to build the future.
+## Recent Focus
+- Scaling dashboard applications handling complex real-time data
+- Building internationalized platforms (English/Portuguese/Albanian)
+- Full-stack development: API design, database optimization, deployment
+- AI-powered features: chatbots, intelligent recommendations, data processing
 
-[![Mail Badge](https://img.shields.io/badge/-aleonamaissac@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aleonamaissac@gmail.com)](mailto:aleonamaissac) [![Linkedin Badge](https://img.shields.io/badge/-Manoela_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoelacs//)](https://www.linkedin.com/in/manoelacs/)
+## Let's Talk About
+Building products that solve real problems, scaling React applications, full-stack JavaScript/Python architecture, or how AI is changing web development.
 
+📧 **[aleonamaissac@gmail.com](mailto:aleonamaissac@gmail.com)** | 🔗 **[LinkedIn](https://www.linkedin.com/in/manoelacs/)**
 
+---
 
-<div >
+### My Stats
+
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manoelacs&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelacs&layout=compact&langs_count=7"/>
 </div>
-
 
 
 
