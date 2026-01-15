@@ -1,6 +1,6 @@
 Hey, I’m Manoela Santos 👋
 
-🚀 Frontend Developer | Aspiring Full-Stack Developer | AI Enthusiast 🤖
+🚀 Senior Frontend Developer | React • Next.js • TypeScript • Flutter 🤖
 
 I’m all about building dynamic, responsive web systems, and now I’m diving deep into Django to connect the dots between front-end and back-end. My goal? To create seamless applications that integrate innovative features, AI, and a clean code approach.
 
