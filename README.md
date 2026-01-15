@@ -31,4 +31,14 @@ Building products that solve real problems, scaling React applications, full-sta
 </div>
 
 
+## Featured Projects
 
+### Albania Homes Platform
+**What it does:** Internationalized real estate platform for property listings in Albania
+**Tech stack:** Next.js, TypeScript, Supabase, Vercel, i18n
+**Why it matters:** Learned how to build truly scalable platforms with multiple languages and complex filtering
+
+**Key accomplishments:**
+- Implemented real-time property filtering for 1000+ listings
+- Built i18n system supporting 3 languages with SEO optimization
+- Designed component library for reusable UI patterns
